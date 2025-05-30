@@ -68,6 +68,7 @@ Full findings are documented in [`TiTanic_EDA_Summery.docx`](./TiTanic_EDA_Summe
 
 ```bash
 python eda_titanic.py
+```
 
 ---
 
